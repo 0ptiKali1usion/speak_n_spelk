@@ -1,0 +1,264 @@
+Amazon Australian English (Nicole)
+Amazon Australian English (Nicole)
+Amazon Australian English (Nicole)
+Amazon Australian English (Russell)
+Amazon Australian English (Russell)
+Amazon British English (Amy)
+Amazon British English (Amy)
+Amazon British English (Brian)
+Amazon British English (Brian)
+Amazon British English (Emma)
+Amazon British English (Emma)
+Amazon Indian English (Raveena)
+Amazon Indian English (Raveena)
+Amazon US English (Ivy)
+Amazon US English (Ivy)
+Amazon US English (Joey)
+Amazon US English (Joey)
+Amazon US English (Justin)
+Amazon US English (Justin)
+Amazon US English (Kendra)
+Amazon US English (Kendra)
+Amazon US English (Kimberly)
+Amazon US English (Salli)
+Amazon Welsh English (Geraint)
+Chinese (Mandarin, latin as English)+Adam
+Chinese (Mandarin, latin as English)+Alex
+Chinese (Mandarin, latin as English)+Alicia
+Chinese (Mandarin, latin as English)+Andrea
+Chinese (Mandarin, latin as English)+Andy
+Chinese (Mandarin, latin as English)+anika
+Chinese (Mandarin, latin as English)+anikaRobot
+Chinese (Mandarin, latin as English)+Annie
+Chinese (Mandarin, latin as English)+Antonio
+Chinese (Mandarin, latin as English)+anxiousAndy
+Chinese (Mandarin, latin as English)+Auntie
+Chinese (Mandarin, latin as English)+Belinda
+Chinese (Mandarin, latin as English)+Benjamin
+Chinese (Mandarin, latin as English)+Boris
+Chinese (Mandarin, latin as English)+Caleb
+Chinese (Mandarin, latin as English)+croak
+Chinese (Mandarin, latin as English)+David
+Chinese (Mandarin, latin as English)+Demonic
+Chinese (Mandarin, latin as English)+Denis
+Chinese (Mandarin, latin as English)+Diogo
+Chinese (Mandarin, latin as English)+Ed
+Chinese (Mandarin, latin as English)+Edward2
+Chinese (Mandarin, latin as English)+Edward
+Chinese (Mandarin, latin as English)+fast_test
+Chinese (Mandarin, latin as English)+female1
+Chinese (Mandarin, latin as English)+female2
+Chinese (Mandarin, latin as English)+female3
+Chinese (Mandarin, latin as English)+female4
+Chinese (Mandarin, latin as English)+female5
+Chinese (Mandarin, latin as English)+female_whisper
+Chinese (Mandarin, latin as English)+Gene2
+Chinese (Mandarin, latin as English)+Gene
+Chinese (Mandarin, latin as English)+grandma
+Chinese (Mandarin, latin as English)+grandpa
+Chinese (Mandarin, latin as English)+Gustave
+Chinese (Mandarin, latin as English)+Half-LifeAnnouncementSystem
+Chinese (Mandarin, latin as English)+Henrique
+Chinese (Mandarin, latin as English)+Hugo
+Chinese (Mandarin, latin as English)+Iven2
+Chinese (Mandarin, latin as English)+Iven3
+Chinese (Mandarin, latin as English)+Iven4
+Chinese (Mandarin, latin as English)+Iven
+Chinese (Mandarin, latin as English)+Jacky
+Chinese (Mandarin, latin as English)+John
+Chinese (Mandarin, latin as English)+Kaukovalta
+Chinese (Mandarin, latin as English)+klatt2
+Chinese (Mandarin, latin as English)+klatt3
+Chinese (Mandarin, latin as English)+klatt4
+Chinese (Mandarin, latin as English)+klatt5
+Chinese (Mandarin, latin as English)+klatt6
+Chinese (Mandarin, latin as English)+klatt
+Chinese (Mandarin, latin as English)+Lee
+Chinese (Mandarin, latin as English)+Linda
+Chinese (Mandarin, latin as English)+male1
+Chinese (Mandarin, latin as English)+male2
+Chinese (Mandarin, latin as English)+male3
+Chinese (Mandarin, latin as English)+male4
+Chinese (Mandarin, latin as English)+male5
+Chinese (Mandarin, latin as English)+male6
+Chinese (Mandarin, latin as English)+male7
+Chinese (Mandarin, latin as English)+male8
+Chinese (Mandarin, latin as English)+Marcelo
+Chinese (Mandarin, latin as English)+Marco
+Chinese (Mandarin, latin as English)+Mario
+Chinese (Mandarin, latin as English)+Max
+Chinese (Mandarin, latin as English)+Michael
+Chinese (Mandarin, latin as English)+Michel
+Chinese (Mandarin, latin as English)+Miguel
+Chinese (Mandarin, latin as English)+Mike
+Chinese (Mandarin, latin as English)+Mr_Serious
+Chinese (Mandarin, latin as English)+Nguyen
+Chinese (Mandarin, latin as English)+norbert
+Chinese (Mandarin, latin as English)+Pablo
+Chinese (Mandarin, latin as English)+Paul
+Chinese (Mandarin, latin as English)+Pedro
+Chinese (Mandarin, latin as English)+Quincy
+Chinese (Mandarin, latin as English)
+Chinese (Mandarin, latin as English)+RicishayMax2
+Chinese (Mandarin, latin as English)+RicishayMax3
+Chinese (Mandarin, latin as English)+RicishayMax
+Chinese (Mandarin, latin as English)+Robert
+Chinese (Mandarin, latin as English)+Robosoft2
+Chinese (Mandarin, latin as English)+Robosoft3
+Chinese (Mandarin, latin as English)+Robosoft4
+Chinese (Mandarin, latin as English)+Robosoft5
+Chinese (Mandarin, latin as English)+Robosoft6
+Chinese (Mandarin, latin as English)+Robosoft7
+Chinese (Mandarin, latin as English)+Robosoft8
+Chinese (Mandarin, latin as English)+Robosoft
+Chinese (Mandarin, latin as English)+Rob
+Chinese (Mandarin, latin as English)+sandro
+Chinese (Mandarin, latin as English)+shelby
+Chinese (Mandarin, latin as English)+Steph2
+Chinese (Mandarin, latin as English)+Steph3
+Chinese (Mandarin, latin as English)+Steph
+Chinese (Mandarin, latin as English)+Storm
+Chinese (Mandarin, latin as English)+travis
+Chinese (Mandarin, latin as English)+Tweaky
+Chinese (Mandarin, latin as English)+UniversalRobot
+Chinese (Mandarin, latin as English)+victor
+Chinese (Mandarin, latin as English)+whisper
+Chinese (Mandarin, latin as English)+Zac
+English (America)+Adam
+English (America)+Alex
+English (America)+Alicia
+English (America)+Andrea
+English (America)+Andy
+English (America)+anika
+English (America)+anikaRobot
+English (America)+Annie
+English (America)+Antonio
+English (America)+anxiousAndy
+English (America)+Auntie
+English (America)+Belinda
+English (America)+Benjamin
+English (America)+Boris
+English (America)+Caleb
+English (America)+croak
+English (America)+David
+English (America)+Demonic
+English (America)+Denis
+English (America)+Diogo
+English (America)+Ed
+English (America)+Edward2
+English (America)+Edward
+English (America)+fast_test
+English (America)+female1
+English (America)+female2
+English (America)+female3
+English (America)+female4
+English (America)+female5
+English (America)+female_whisper
+English (America)+Gene2
+English (America)+Gene
+English (America)+grandma
+English (America)+grandpa
+English (America)+Gustave
+English (America)+Half-LifeAnnouncementSystem
+English (America)+Henrique
+English (America)+Hugo
+English (America)+Iven2
+English (America)+Iven3
+English (America)+Iven4
+English (America)+Iven
+English (America)+Jacky
+English (America)+John
+English (America)+Kaukovalta
+English (America)+klatt2
+English (America)+klatt3
+English (America)+klatt4
+English (America)+klatt5
+English (America)+klatt6
+English (America)+klatt
+English (America)+Lee
+English (America)+Linda
+English (America)+male1
+English (America)+male2
+English (America)+male3
+English (America)+male4
+English (America)+male5
+English (America)+male6
+English (America)+male7
+English (America)+male8
+English (America)+Marcelo
+English (America)+Marco
+English (America)+Mario
+English (America)+Max
+English (America)+Michael
+English (America)+Michel
+English (America)+Miguel
+English (America)+Mike
+English (America)+Mr_Serious
+English (America, New York City)+Adam
+English (America, New York City)+Alex
+English (America, New York City)+Alicia
+English (America, New York City)+Andrea
+English (America, New York City)+Andy
+English (America, New York City)+anika
+English (America, New York City)+anikaRobot
+English (America, New York City)+Annie
+English (America, New York City)+Antonio
+English (America, New York City)+anxiousAndy
+English (America, New York City)+Auntie
+English (America, New York City)+Belinda
+English (America, New York City)+Benjamin
+English (America, New York City)+Boris
+English (America, New York City)+Caleb
+English (America, New York City)+croak
+English (America, New York City)+David
+English (America, New York City)+Demonic
+English (America, New York City)+Denis
+English (America, New York City)+Diogo
+English (America, New York City)+Ed
+English (America, New York City)+Edward2
+English (America, New York City)+Edward
+English (America, New York City)+fast_test
+English (America, New York City)+female1
+English (America, New York City)+female2
+English (America, New York City)+female3
+English (America, New York City)+female4
+English (America, New York City)+female5
+English (America, New York City)+female_whisper
+English (America, New York City)+Gene2
+English (America, New York City)+Gene
+English (America, New York City)+grandma
+English (America, New York City)+grandpa
+English (America, New York City)+Gustave
+English (America, New York City)+Half-LifeAnnouncementSystem
+English (America, New York City)+Henrique
+English (America, New York City)+Hugo
+English (America, New York City)+Iven2
+English (America, New York City)+Iven3
+English (America, New York City)+Iven4
+English (America, New York City)+Iven
+English (America, New York City)+Jacky
+English (America, New York City)+John
+English (America, New York City)+Kaukovalta
+English (America, New York City)+klatt2
+English (America, New York City)+klatt3
+English (America, New York City)+klatt4
+English (America, New York City)+klatt5
+English (America, New York City)+klatt6
+English (America, New York City)+klatt
+English (America, New York City)+Lee
+English (America, New York City)+Linda
+English (America, New York City)+male1
+English (America, New York City)+male2
+English (America, New York City)+male3
+English (America, New York City)+male4
+English (America, New York City)+male5
+English (America, New York City)+male6
+English (America, New York City)+male7
+English (America, New York City)+male8
+English (America, New York City)+Marcelo
+English (America, New York City)+Marco
+English (America, New York City)+Mario
+English (America, New York City)+Max
+English (America, New York City)+Michael
+English (America, New York City)
+English (America)
