@@ -5,4 +5,9 @@
 ## so much of the output ends up redundent. redundant? reeduhndahnt???
 ## yeah. wish me luck.
 ## -JJ.
+#creates multiple iterations/requests to the read aloud script. BTW. you only get like, a million words for free.
+# at readaloud dot whatever. so, you could use up your credits real easy this way.
+# and HEY! don't use up all mine, that's my key! you know :/
 cat voices.txt | xargs -I '{}' ./readaloud_get_speech.sh '{}' 'Zot the Avenger RULES here, only on Twitch dot t v' 
+# sleeping to avoid a 429 error
+sleep 5
